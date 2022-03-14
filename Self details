@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+    printf("name\n");
+    printf("registration no\n");
+    printf("college name\n");
+    printf("department name\n");
+    return(0);
+}
